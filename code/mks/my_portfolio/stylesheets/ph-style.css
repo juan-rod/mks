@@ -1,0 +1,175 @@
+body{
+	background-color: #d4d4d2;
+
+}
+
+#chart{
+	position:center;
+}
+#header{
+	background-color: #ececea;
+	height: 50px;
+	width:500px ;
+	position:center;
+	color: #404040;}
+
+
+
+p.first{
+	background-color: #2c41e8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	color:#e5e5e5;
+	font-family: Perpetua;
+	font-size: 1em;
+	
+}
+p.second{
+	background-color: #2c4fe8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+	
+}
+p.third{
+	background-color: #2c66e8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.fourth{
+	background-color: #2c6fe8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.fifth{
+	background-color: #2c8ce8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.sixth{
+	background-color: #2ca9e8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.seventh{
+	background-color: #2cbfe8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.eighth{
+	background-color: #0cac56;
+	height: 35px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.ninth{
+	background-color: #ffd0d8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.tenth{
+	background-color: #ffc5cf; 
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.eleventh{
+	background-color: #ffb9c5;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.twelfth{
+	background-color: #ffadbb;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.thirteen{
+	background-color: #ffa2b2;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.fourteen{
+	background-color: #ff96a8;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+p.fifteen{
+	background-color: #ff8b9f;
+	height: 25px;
+	width:500px ;
+	position:center;
+	font-family: Calibri;
+	font-size: 1em;
+	margin-top: -17px;
+	color:#e5e5e5;
+}
+
+
+
+
+
+
+
